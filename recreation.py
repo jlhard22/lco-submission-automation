@@ -28,8 +28,6 @@ from astropy.time import Time, TimeDelta
 import requests
 
 
-#loop = True #rando top level variable, could be pretty much anything as long as it is set to True
-
 
 # def completed_status_response():
 #     '''should do nothing since it is complete'''
